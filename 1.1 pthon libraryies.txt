@@ -1,0 +1,16 @@
+Python library is a collection of functions and methods to perforem many actions 
+without writting a code
+ For example:
+      1. NumPy
+      2. Pandas
+      3. Matplotlib
+
+
+
+1. NumPy:
+NumPy stands for Numerical Python is a powerful Python library used extensively in scientific computing.
+It consists of multidimentional array objects and a cllection of routines for
+processing those arrays.
+
+
+
